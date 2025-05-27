@@ -1,16 +1,16 @@
-# 🧱 StackPeu CLI
+# StackPeu CLI
 
 **StackPeu CLI** é uma ferramenta de linha de comando escrita em Python para criar, configurar e automatizar projetos **Node.js** e **Full Stack** com facilidade.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Inicialização de projetos:
 
-  - 🔧 Backend (Node.js + Express)
-  - 🎨 Frontend (React + Vite)
-  - 🌐 Fullstack (client + server)
+  - Backend (Node.js + Express)
+  - Frontend (React + Vite)
+  - Fullstack (client + server)
 
 - Instalação automática de dependências
 
@@ -24,14 +24,14 @@
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.8+
 - Node.js e npm instalados
 
 ---
 
-## ⚙️ Instalação
+## Instalação
 
 Clone este repositório ou copie o arquivo `stackpeucli.py` para sua máquina:
 
@@ -49,9 +49,9 @@ copy caminho/para/stackpeucli.py .
 
 ---
 
-## 🤝 Guia de uso (Passo a passo)
+## Guia de uso (Passo a passo)
 
-### ▶️ 1. Iniciar um novo projeto
+### 1. Iniciar um novo projeto
 
 ```bash
 python stackpeucli.py init --type [fullstack | backend | frontend]
@@ -79,7 +79,7 @@ Exemplos:
 
 ---
 
-### 📥 2. Instalar dependências
+### 2. Instalar dependências
 
 ```bash
 python stackpeucli.py setup
@@ -87,7 +87,7 @@ python stackpeucli.py setup
 
 ---
 
-### 🧪 3. Rodar testes simulados
+### 3. Rodar testes simulados
 
 ```bash
 python stackpeucli.py test
@@ -95,7 +95,7 @@ python stackpeucli.py test
 
 ---
 
-### 🧪 4. Verificar código com ESLint e Prettier
+### 4. Verificar código com ESLint e Prettier
 
 ```bash
 python stackpeucli.py check
@@ -103,7 +103,7 @@ python stackpeucli.py check
 
 ---
 
-### 🧪 5. Rodar em modo de desenvolvimento
+### 5. Rodar em modo de desenvolvimento
 
 - Para **backend**:
 
@@ -132,7 +132,7 @@ python stackpeucli.py check
 
 ---
 
-### 🏗️ 6. Build do projeto (somente frontend ou fullstack)
+### 6. Build do projeto (somente frontend ou fullstack)
 
 ```bash
 python stackpeucli.py build
@@ -140,7 +140,7 @@ python stackpeucli.py build
 
 ---
 
-## 📁 Estrutura gerada (exemplo fullstack)
+## Estrutura gerada (exemplo fullstack)
 
 ```
 meu-projeto/
@@ -161,7 +161,7 @@ meu-projeto/
 
 ---
 
-## 💡 Ideias futuras
+## Ideias futuras
 
 - Suporte para TypeScript
 - Deploy automatizado (Vercel, Heroku, etc.)
@@ -170,12 +170,10 @@ meu-projeto/
 
 ---
 
-## 👨‍💼 Autor
+## Autor
 
 Pedro Antonio Coelho Santa Rita
 
----
 
-## 📝 Licença
 
-MIT License
+
